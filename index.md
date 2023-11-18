@@ -16,3 +16,7 @@ Run Below data to populate initial database fields
 ```sh
 $ npm run seed
 ```
+# Task List
+- [x] Install packages
+- [x] Populate Database
+- [ ] Run the project
